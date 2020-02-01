@@ -1,5 +1,5 @@
 # Hackintosh-Dell-XPS-9380
-1、镜像有用的黑果小兵的（14.4.4）：
+1、镜像有用的黑果小兵的（14.4.4）
 https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/
 2、EFI用附件里面滴，不要用黑果小兵镜像里面的，更不要用成Lenovo-Xiaoxin-Air-13得了。
 3、安装参照黑果小兵的教程：
