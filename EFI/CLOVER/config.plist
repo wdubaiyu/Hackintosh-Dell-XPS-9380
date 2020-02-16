@@ -189,7 +189,7 @@
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
-		<true/>
+		<false/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
@@ -209,11 +209,9 @@
 		<key>Audio</key>
 		<dict>
 			<key>AFGLowPowerState</key>
-			<true/>
-			<key>Inject</key>
-			<integer>22</integer>
+			<false/>
 			<key>ResetHDA</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Properties</key>
 		<dict>
@@ -246,11 +244,11 @@
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
-			<true/>
+			<false/>
 			<key>FixOwnership</key>
-			<true/>
+			<false/>
 			<key>Inject</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>UseIntelHDMI</key>
 		<false/>
@@ -265,36 +263,8 @@
 		<string>1920x1080</string>
 		<key>ConsoleMode</key>
 		<string>Max</string>
-		<key>Custom</key>
-		<dict>
-			<key>Entries</key>
-			<array>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>Hidden</key>
-					<false/>
-					<key>Ignore</key>
-					<false/>
-					<key>NoCaches</key>
-					<false/>
-					<key>Title</key>
-					<string>Mojave</string>
-					<key>Type</key>
-					<string>OSXRecovery</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>Ignore</key>
-					<false/>
-					<key>Title</key>
-					<string>win10</string>
-					<key>Type</key>
-					<string>Windows</string>
-				</dict>
-			</array>
-		</dict>
+		<key>CustomIcons</key>
+		<false/>
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
@@ -313,8 +283,6 @@
 			<true/>
 			<key>Legacy</key>
 			<false/>
-			<key>Linux</key>
-			<true/>
 			<key>Tool</key>
 			<true/>
 		</dict>
@@ -348,11 +316,6 @@
 		<true/>
 		<key>DellSMBIOSPatch</key>
 		<false/>
-		<key>ForceKextsToLoad</key>
-		<array>
-			<string>\System\Library\Extensions\IONetworkingFamily.kext</string>
-			<string>\System\Library\Extensions\IOGraphicsFamily.kext</string>
-		</array>
 		<key>KernelLapic</key>
 		<true/>
 		<key>KernelPm</key>

@@ -26,6 +26,6 @@
 	3、耳麦无法工作（Jack_MIC)。
 	4、插入耳机睡眠唤醒耳机不能使用，需要拔插一次。
 四、修改记录：
-
+	20200217 修改config，新增安装文件：http://bbs.pcbeta.com/viewthread-1842031-1-1.html。
 	20200213 升级驱动：Lilu.kext AppleALC.kext WhateverGreen.kext。
 	20200203 使用SMCBatteryManager.kext、VirtualSMC.kext 解决电池显示问题。
