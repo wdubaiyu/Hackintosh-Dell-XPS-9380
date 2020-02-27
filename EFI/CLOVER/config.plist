@@ -161,6 +161,36 @@
 					<key>Replace</key>
 					<data>FBJYUFJXAHA=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change EC0 to EC</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>RUMwXw==</data>
+					<key>Replace</key>
+					<data>RUNfXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change H_EC to EC</string>
+					<key>Disabled</key>
+					<true/>
+					<key>Find</key>
+					<data>SF9FQw==</data>
+					<key>Replace</key>
+					<data>RUNfXw==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change ECDV to EC</string>
+					<key>Disabled</key>
+					<true/>
+					<key>Find</key>
+					<data>RUNEVg==</data>
+					<key>Replace</key>
+					<data>RUNfXw==</data>
+				</dict>
 			</array>
 		</dict>
 		<key>FixHeaders</key>
@@ -187,13 +217,13 @@
 		<key>Arguments</key>
 		<string>dart=0 -lilubetaall -wegbeta -igfxmlr</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>MAC OS X</string>
+		<key>Fast</key>
+		<false/>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>5</integer>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
@@ -289,7 +319,7 @@
 		<key>ScreenResolution</key>
 		<string>3840×2160</string>
 		<key>Theme</key>
-		<string>Mojave4k</string>
+		<string>Catalina4K</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
