@@ -29,7 +29,9 @@
 	4、插入耳机睡眠唤醒耳机不能使用，需要拔插一次。
 四、修改记录：
 
-	20200227 更改ec控制器，支持10.15.3,添加SSDT-EC,SSDT-RTC;更换主题为 Catalina4K。
+
+      20200301 移除大量无用文件，减小体积。
+	20200227 更改ec控制器，支持10.15.3（使用仓库EFI文件安装即可）,添加SSDT-EC,SSDT-RTC;更换主题为 Catalina4K。
 	20200217 修改config，新增安装文件：http://bbs.pcbeta.com/viewthread-1842031-1-1.html。
 	20200213 升级驱动：Lilu.kext AppleALC.kext WhateverGreen.kext。
 	20200203 使用SMCBatteryManager.kext、VirtualSMC.kext 解决电池显示问题。
