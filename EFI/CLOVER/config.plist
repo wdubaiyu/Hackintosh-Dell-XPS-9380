@@ -35,13 +35,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -49,13 +45,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X0RTTQ==
-					</data>
+					<data>X0RTTQ==</data>
 					<key>Replace</key>
-					<data>
-					WERTTQ==
-					</data>
+					<data>WERTTQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -63,13 +55,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -77,13 +65,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -91,13 +75,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					FCBCUlQ2Ag==
-					</data>
+					<data>FCBCUlQ2Ag==</data>
 					<key>Replace</key>
-					<data>
-					FCBCUlRYAg==
-					</data>
+					<data>FCBCUlRYAg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -105,13 +85,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					FEAGR1BSVwI=
-					</data>
+					<data>FEAGR1BSVwI=</data>
 					<key>Replace</key>
-					<data>
-					FEAGWVBSVwI=
-					</data>
+					<data>FEAGWVBSVwI=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -119,17 +95,11 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X1JNVg==
-					</data>
+					<data>X1JNVg==</data>
 					<key>Replace</key>
-					<data>
-					WFJNVg==
-					</data>
+					<data>WFJNVg==</data>
 					<key>TgtBridge</key>
-					<data>
-					UlAxNQ==
-					</data>
+					<data>UlAxNQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -137,13 +107,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					WFRCVA==
-					</data>
+					<data>WFRCVA==</data>
 					<key>Replace</key>
-					<data>
-					WVRCVA==
-					</data>
+					<data>WVRCVA==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -151,13 +117,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					QUNfXw==
-					</data>
+					<data>QUNfXw==</data>
 					<key>Replace</key>
-					<data>
-					QURQMQ==
-					</data>
+					<data>QURQMQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -165,13 +127,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					FDlfV0FLAQ==
-					</data>
+					<data>FDlfV0FLAQ==</data>
 					<key>Replace</key>
-					<data>
-					FDlaV0FLAQ==
-					</data>
+					<data>FDlaV0FLAQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -179,13 +137,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					T1NJRA==
-					</data>
+					<data>T1NJRA==</data>
 					<key>Replace</key>
-					<data>
-					WFNJRA==
-					</data>
+					<data>WFNJRA==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -193,13 +147,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					FBJVUFJXAHA=
-					</data>
+					<data>FBJVUFJXAHA=</data>
 					<key>Replace</key>
-					<data>
-					FBJYUFJXAHA=
-					</data>
+					<data>FBJYUFJXAHA=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -207,13 +157,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUMwXw==
-					</data>
+					<data>RUMwXw==</data>
 					<key>Replace</key>
-					<data>
-					RUNfXw==
-					</data>
+					<data>RUNfXw==</data>
 				</dict>
 			</array>
 		</dict>
@@ -268,37 +214,23 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>
-				CQCbPg==
-				</data>
+				<data>CQCbPg==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
-				<data>
-				mz4AAA==
-				</data>
+				<data>mz4AAA==</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>enable-lspcon-support</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-has-lspcon</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con1-preferred-lspcon-mode</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
@@ -383,13 +315,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				ILniAAAADzA=
-				</data>
+				<data>ILniAAAADzA=</data>
 				<key>Replace</key>
-				<data>
-				ILniAAAAkJA=
-				</data>
+				<data>ILniAAAAkJA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -397,15 +325,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRE
-				</data>
+				<data>igKEwHRE</data>
 				<key>MatchOS</key>
 				<string>10.13.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtE
-				</data>
+				<data>igKEwOtE</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -413,15 +337,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				igKEwHRC
-				</data>
+				<data>igKEwHRC</data>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Replace</key>
-				<data>
-				igKEwOtC
-				</data>
+				<data>igKEwOtC</data>
 			</dict>
 		</array>
 	</dict>
@@ -431,12 +351,8 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C02TNHACHV29</string>
 		<key>ROM</key>
-		<data>
-		tMBPOFky
-		</data>
+		<data>tMBPOFky</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -450,8 +366,6 @@
 		<string>Mac-B4831CEBD52A0C4C</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02140302D5DMT31M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -480,17 +394,11 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro14,2</string>
-		<key>SerialNumber</key>
-		<string>C02TNHACHV29</string>
-		<key>SmUUID</key>
-		<string>BA7EA981-27A0-5DAF-9BD5-393564243092</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
-		<key>CustomUUID</key>
-		<string>F5CC6A17-1B88-5BA7-8FA4-5A0128C994D5</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
