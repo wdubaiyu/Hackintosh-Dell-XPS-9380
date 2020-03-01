@@ -1,0 +1,12 @@
+Mac 下安装盘制作
+sudo 安装镜像图标拖入终端/Contents/Resources/createinstallmedia --volume u盘拖入终端
+安装后按照以下操作
+1、打卡任何来源
+sudo spctl --master-disable
+2、修复 10.15文件权限问题（10.14跳过此步骤）
+me=`whoami`; sudo chown -R $me ~; sudo chmod -R u+rwx ~
+
+3、删除额外输入法（可选，需要先安装PlistEdit到应用程序）
+sudo open -a /Applications/PlistEdit\ Pro.app ~/Library/Preferences/com.apple.HIToolbox.plist
+
+4、安装ALCPlugFix守护程序
