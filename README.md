@@ -1,8 +1,8 @@
 # Hackintosh-Dell-XPS-9380
 一、系统安装
 
-	1、镜像用的黑果小兵的（10.14.x ~ 10.15.x）https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/
-	2、安装参照黑果小兵的教程：https://blog.daliansky.net/Lenovo-Xiaoxin-Air-13-macOS-Mojave-installation-tutorial.html
+	1、镜像用的黑果小兵的（10.14.3 ~ 10.15.x）https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/
+	2、安装参 仓库中的安装教程 《xps9380 黑苹果安装教程10.15.3.docx》
 	3、EFI用我的，不要用黑果小兵镜像里面的，更不要用成Lenovo-Xiaoxin-Air-13得了。
 	重要说明
 		重点1：硬盘Raid模式无损转换为AHCI模式，参考链接：https://www.dazhuanlan.com/2019/12/15/5df650b549a64/
@@ -29,6 +29,7 @@
 四、修改记录：
 
 
+	20200306 提供安装教程。
 	20200301 移除大量无用文件，减小体积。仓库备份文件 CLOVER 10.14 备份.zip 只能用于10.14.x。;主题还原Mojave4K。
 	20200227 更改ec控制器，支持10.15.3（使用仓库EFI文件安装即可）,添加SSDT-EC,SSDT-RTC;更换主题为 Catalina4K。
 	20200217 修改config，新增安装文件：http://bbs.pcbeta.com/viewthread-1842031-1-1.html。
