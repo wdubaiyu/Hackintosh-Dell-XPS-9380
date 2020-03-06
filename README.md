@@ -2,8 +2,7 @@
 一、系统安装
 
 	1、镜像用的黑果小兵的（10.14.3 ~ 10.15.x）https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/
-	2、安装参 仓库中的安装教程 《xps9380 黑苹果安装教程10.15.3.docx》
-	3、EFI用我的，不要用黑果小兵镜像里面的，更不要用成Lenovo-Xiaoxin-Air-13得了。
+	2、安装参考 仓库中的安装教程 《xps9380 黑苹果安装教程10.15.3.docx》
 	重要说明
 		重点1：硬盘Raid模式无损转换为AHCI模式，参考链接：https://www.dazhuanlan.com/2019/12/15/5df650b549a64/
 		重点2：将Secure Boot 改为 Disabled。BIOS里面自己找。这个都找不到就不要装黑苹果了。
