@@ -47,7 +47,7 @@
 
 ## 修改记录：
 
--	20200306 提供安装教程。
+-	20200306 提供[安装教程](https://github.com/wdubaiyu/Hackintosh-Dell-XPS-9380/blob/master/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/xps9380%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B10.15.3.docx?raw=true)。
 -	20200301 移除大量无用文件，减小体积。仓库备份文件 CLOVER 10.14 备份.zip 只能用于10.14.x。;主题还原Mojave4K。
 -	20200227 更改ec控制器，支持10.15.3（使用仓库EFI文件安装即可）,添加SSDT-EC,SSDT-RTC;更换主题为 Catalina4K。
 -	20200217 修改config，新增[安装文件](http://bbs.pcbeta.com/viewthread-1842031-1-1.html)。
