@@ -1,4 +1,19 @@
 # Hackintosh-Dell-XPS-9380
+
+## 硬件配置参考
+
+- 型号：XPS13-9380
+- CPU：QuadCore Intel Core i7-8565U, 4500 MHz (45 x 100)
+- GPU：Intel UHD Graphics 620
+- 内存：16GB-
+- 显示器：3840x2160
+- SSD：SSDPEMKF512G8 NVMe INTEL 512GB (476 GB)
+- 无线网卡：外接COMFAST CF-812AC（购于淘宝外接usb，驱动问卖家要）
+系统及BIOS：
+- 系统：macOS 10.14.6 Mojave
+- BIOS：1.8.0 (其实都一样，没必要升级过来，升级了1.8.0 无法回退之前版本 )
+- [Dell XPS 13 9380 BIOS下载链接](https://www.dell.com/support/home/cn/zh/cnbsd1/product-support/product/xps-13-9380-laptop/drivers)
+
 一、系统安装
 
 	1、镜像用的黑果小兵的（10.14.3 ~ 10.15.x）https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/
