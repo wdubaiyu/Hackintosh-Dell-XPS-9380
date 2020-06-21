@@ -1,6 +1,8 @@
 Mac 下安装盘制作
 sudo 安装镜像图标拖入终端/Contents/Resources/createinstallmedia --volume u盘拖入终端
 安装后按照以下操作
+0、进入Recovery 关闭SIP
+
 1、打卡任何来源
 sudo spctl --master-disable
 
