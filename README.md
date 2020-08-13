@@ -45,7 +45,7 @@
      - 重启。
 
 ## 修改记录：
--	修改SSDT-BRTX提升亮度，增加SSDT-RMCF屏蔽FN+s，FN+b ,映射FN+F11为F13在偏好设置里设置为截图，以获得更好体验。
+-	OpenCore20200700-2043 ~~修改SSDT-BRTX提升亮度~~，增加SSDT-RMCF屏蔽FN+s，FN+b ,映射FN+F11为F13在偏好设置里设置为截图，以获得更好体验。
 -	OpenCore20200709-1421 使用SSDT-LAN.aml 和 NullEthernet.kext 仿冒一个以太网卡，让Siri工作，如果你是之前安装好的系统，请修改BSD名称，保证虚拟网卡是en0。
 -	OpenCore20200623-1356 修复睡眠唤醒后需要敲键盘才能亮屏的BUG，尝试修复唤醒触摸板不能使用的问题，屏蔽PR15。
 -	OpenCore20200621-2300 BUG见正文。
