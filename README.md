@@ -7,7 +7,7 @@
 - GPU：Intel UHD Graphics 620
 - 内存：16GB 三星颗粒
 - 显示器：3840x2160 内置夏普屏型号被DELL打码
-- SSD：SSDPEMKF512G8 NVMe INTEL 512GB (476 GB)
+- SSD：~~SSDPEMKF512G8 NVMe INTEL 512GB (476 GB)~~
 - 无线网卡：COMFAST CF-812AC（购于淘宝外接usb，驱动问卖家要）
 - 系统：macOS 10.14.6 Mojave
 - BIOS：[1.8.0](https://www.dell.com/support/home/cn/zh/cnbsd1/product-support/product/xps-13-9380-laptop/drivers)   其实都一样，没必要升级过来，升级了1.8.0 无法回退之前版本 。
@@ -35,7 +35,7 @@
 
 - 四、注意事项
 
-     - 不识别电源适配器（电池没显示充电符号），在mac下插好电源充满，拔掉用掉5%左右（其实掉一点也行），关机重新开。一次不行多来几次，肯定会好的
+     - ~~不识别电源适配器（电池没显示充电符号），在mac下插好电源充满，拔掉用掉5%左右（其实掉一点也行），关机重新开。一次不行多来几次，肯定会好的~~
      - 屏幕上面没有鼠标指针，伸出你高贵的猪脚，在屏幕上面点一下就好了。（我一般点启动台）
      - 我的硬盘INTEL 760P DELL打了马甲，其他硬盘不知道能用不，dsdt放了硬盘补丁。
      - 系统测试通过：
@@ -46,6 +46,7 @@
 
 ## 修改记录：
 
+-	202010071543 同步OC修正问题。
 -	20200425 修改机型为 13-inch, 2019 。
 -	20200306 提供[安装教程](https://github.com/wdubaiyu/Hackintosh-Dell-XPS-9380/blob/master/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/xps9380%20%E9%BB%91%E8%8B%B9%E6%9E%9C%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B10.15.3.docx?raw=true)。
 -	20200301 移除大量无用文件，减小体积。仓库备份文件 CLOVER 10.14 备份.zip 只能用于10.14.x。;主题还原Mojave4K。
