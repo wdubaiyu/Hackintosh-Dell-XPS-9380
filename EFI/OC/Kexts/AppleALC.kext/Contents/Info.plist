@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.5.4</string>
+	<string>1.5.7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,23 +25,21 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.5.4</string>
+	<string>1.5.7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>12A7209</string>
-	<key>DTPlatformName</key>
-	<string>macosx</string>
+	<string>11C505</string>
 	<key>DTPlatformVersion</key>
-	<string>10.15.6</string>
+	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>19G68</string>
+	<string>19B90</string>
 	<key>DTSDKName</key>
 	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>1200</string>
+	<string>1130</string>
 	<key>DTXcodeBuild</key>
-	<string>12A7209</string>
+	<string>11C505</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALCUserClientProvider</key>
@@ -55,9 +53,7 @@
 			<key>IOProbeScore</key>
 			<integer>1000</integer>
 			<key>IOProviderClass</key>
-			<string>IOResources</string>
-			<key>IOResourceMatch</key>
-			<string>IOKit</string>
+			<string>IOHDACodecDevice</string>
 			<key>IOUserClientClass</key>
 			<string>ALCUserClient</string>
 		</dict>
@@ -102,8 +98,9 @@
 					pgEnH5ABlxxQAZcdAAGXHoEBlx8AAaccEAGn
 					HQEBpx4XAacfkAFHDAIBVxzwAVcdAAFXHgAB
 					Vx9AAWcc8AFnHQABZx4AAWcfQAF3HPABdx0A
-					AXceAAF3H0ABtxzwAbcdAAG3HgABtx9AAbcM
-					AgHnHPAB5x0AAeceAAHnH0A=
+					AXceAAF3H0ABhxzwAYcdAAGHHgABhx9AAbcc
+					8AG3HQABtx4AAbcfQAG3DAIB5xzwAecdAAHn
+					HgAB5x9A
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
