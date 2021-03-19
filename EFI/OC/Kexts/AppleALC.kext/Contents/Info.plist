@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19H2</string>
+	<string>20D91</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.5.7</string>
+	<string>1.5.8</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,21 +25,23 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.5.7</string>
+	<string>1.5.8</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11C505</string>
+	<string>12D4e</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>11.1</string>
 	<key>DTSDKBuild</key>
-	<string>19B90</string>
+	<string>20C63</string>
 	<key>DTSDKName</key>
-	<string>macosx10.15</string>
+	<string>macosx11.1</string>
 	<key>DTXcode</key>
-	<string>1130</string>
+	<string>1240</string>
 	<key>DTXcodeBuild</key>
-	<string>11C505</string>
+	<string>12D4e</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALCUserClientProvider</key>
@@ -82,36 +84,6 @@
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>22</integer>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>CodecID</key>
-					<integer>283906592</integer>
-					<key>CodecName</key>
-					<string>Toleda -  Realtek ALC1220</string>
-					<key>ConfigData</key>
-					<data>
-					AUccMAFHHRABRx4hAUcfAAEnHEABJx0RASce
-					pgEnH5ABlxxQAZcdAAGXHoEBlx8AAaccEAGn
-					HQEBpx4XAacfkAFHDAIBVxzwAVcdAAFXHgAB
-					Vx9AAWcc8AFnHQABZx4AAWcfQAF3HPABdx0A
-					AXceAAF3H0ABhxzwAYcdAAGHHgABhx9AAbcc
-					8AG3HQABtx4AAbcfQAG3DAIB5xzwAecdAAHn
-					HgAB5x9A
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>2</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAg==
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
 				</dict>
 			</array>
 			<key>IOClass</key>
