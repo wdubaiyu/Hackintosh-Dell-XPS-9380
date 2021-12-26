@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20F71</string>
+	<string>20G95</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -71,51 +71,19 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
-					<string>Realtek ALC289 for Dell XPS 13 9300 by DalianSky</string>
-					<key>CodecID</key>
-					<integer>283902601</integer>
-					<key>ConfigData</key>
-					<data>
-					ASccEAEnHQEBJx6mAScfmQF3HDABdx0BAXce
-					FwF3H5kBlxwAAZcdEAGXHosBlx4CAhccIAIX
-					HRACFx4rAhcfAQIXDAI=
-					</data>
-					<key>FuncGroup</key>
-					<integer>1</integer>
-					<key>LayoutID</key>
-					<integer>99</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAgG3DAICFwwC
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
-				</dict>
-				<dict>
-					<key>AFGLowPowerState</key>
-					<data>
-					AwAAAA==
-					</data>
-					<key>Codec</key>
 					<string>Andres - ALC299 Dell XPS13</string>
 					<key>CodecID</key>
 					<integer>283902617</integer>
 					<key>ConfigData</key>
 					<data>
-					ASccEAEnHQEBJx6mAScfmQF3HDABdx0BAXce
-					FwF3H5kBlxwAAZcdEAGXHosBlx4CAhccIAIX
-					HRACFx4rAhcfAQIXDAI=
+					ASccQAEnHQEBJx6gAScfkAF3HBABdx0BAXce
+					FwF3H5ABlxwwAZcdEAGXHoEBlx8EAhccIAIX
+					HRACFx4hAhcfBA==
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>22</integer>
-					<key>WakeConfigData</key>
-					<data>
-					AUcMAgG3DAICFwwC
-					</data>
-					<key>WakeVerbReinit</key>
-					<true/>
 				</dict>
 			</array>
 			<key>IOClass</key>

@@ -53,6 +53,8 @@
 - 五、执行虚拟有线网卡en0的方法已使siri工作，我已经换了wifi网卡EFI不在内置虚拟有线网卡，请参考：OpenCore20200709-1421。
 
 ## 修改记录：
+- OpenCore2021226-1223 移除SSDT-IRQ似乎没有什么用，修复键盘静音键不生效问题（输出设备：Platforms.xml  MuteInputAmp=fale;VolumeInputAmp=false）。
+
 - OpenCore20210826-2052 新增SSDT-IRQ。
 
 - OpenCore20210812-1401 升级OC72以及其他kext驱动。
